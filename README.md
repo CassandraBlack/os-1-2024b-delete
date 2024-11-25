@@ -1,14 +1,14 @@
+# Terrarium 2023-A
+![Terrarium Image](./images/terrarium_banner.jpg)
 
-# os-1-2024b-delete
-PROYECTO FINAL DE LA MATERIA DE SISTEMAS OPERATIVOS I2024B
-REPOSITORIO DE LA MATERIA DE SISTEMAS OPERATIVOS I
+## Descripción
+Proyecto de la clase de Programación web orientado 
+a practicar las bases del código HTML + CSS + JS 💗
 
-👲 AUTOR
+## Autor
+<img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOReUayJsjOls5u0rPpG_l6asS90hmSy5aoQ&s" 
+    alt="Roweena Isadora" 
+    width="200"/>
 
-[ROWEENA ISADORA]
-(https://github.com/CassandraBlack)
-
-🌿 RAMAS DEL PROYECTO
-
-
-[🏆 S04E99 PROYECTO FINAL] 
+Soy una estudiante de programación web👉 isawoodspines@gmail.com
