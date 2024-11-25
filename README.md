@@ -4,9 +4,12 @@
 # os-1-2024b-delete
 PROYECTO FINAL DE LA MATERIA DE SISTEMAS OPERATIVOS I2024B
 REPOSITORIO DE LA MATERIA DE SISTEMAS OPERATIVOS I
+
 👲 AUTOR
 [ROWEENA ISADORA](https://github.com/CassandraBlack)
+
 🌿 RAMAS DEL PROYECTO
+
 [🏆 S04E99 PROYECTO FINAL] 
 
 
@@ -16,4 +19,4 @@ REPOSITORIO DE LA MATERIA DE SISTEMAS OPERATIVOS I
     alt="Roweena Isadora" 
     width="200"/>
 
-Soy una estudiante de programación web👉 isawoodspines@gmail.com
+Soy una estudiante de Sistemas Operativos I👉 isawoodspines@gmail.com
