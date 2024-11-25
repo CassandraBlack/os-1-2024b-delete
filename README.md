@@ -15,7 +15,7 @@ REPOSITORIO DE LA MATERIA DE SISTEMAS OPERATIVOS I
 
 ## Autor
 <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOReUayJsjOls5u0rPpG_l6asS90hmSy5aoQ&s" 
+    src="https://scontent.fmex33-1.fna.fbcdn.net/v/t39.30808-6/465266470_872791551632970_4834953487523828872_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=k7sik43-bgQQ7kNvgELuLUN&_nc_zt=23&_nc_ht=scontent.fmex33-1.fna&_nc_gid=AfglMYAyJxmV7575SylBPHF&oh=00_AYB_oXYfEFpciJcmtP5LFZzgExX-kFy0eGVS4oOcG5Lyow&oe=674A9241" 
     alt="Roweena Isadora" 
     width="200"/>
 
