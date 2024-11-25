@@ -1,5 +1,6 @@
 # Terrarium 2023-A
-![Terrarium Image](./images/terrarium_banner.jpg)
+![ITGAM](https://github.com/user-attachments/assets/c7f2d025-776f-4d07-968d-a880a401ea53)
+
 
 ## Descripción
 Proyecto de la clase de Programación web orientado 
